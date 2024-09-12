@@ -31,8 +31,7 @@ Sou um ávido estudante de tecnologia e com foco na área de dados.
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edmevang&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Meus Principais Desafios de Projeto DIO
-Repositório criado para agrupar os desafios dos Projetos
-realizados nos Bootcamps e cursos livres da DIO.me
+Repositório criado para agrupar os desafios dos Projetos realizados nos Bootcamps e cursos livres da DIO.me
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=edmevang&repo=dio-desafio-github-primeiro-repo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/edmevang/dio-desafio-github-primeiro-repo)
 [![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
